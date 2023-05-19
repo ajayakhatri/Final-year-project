@@ -11,3 +11,7 @@
 - Bhulendra Kumar Kushwaha (075BCE025)
 
 
+## Link for 3D view:
+
+https://3dviewer.net/#model=https://raw.githubusercontent.com/ajayakhatri/Final-year-project/main/3DModel.fbx
+
