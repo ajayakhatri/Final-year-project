@@ -1,2 +1,12 @@
 # Final-year-project
-Final Year Project 
+3D Architectural Model Made During Final Year Project on “SEISMIC ANALYSIS AND DESIGN OF HOSPITAL BUILDING”
+
+#Group members:
+Aditya Pandey (075BCE008) 
+Ajaya Khatri (075BCE010)
+Anamol Mahato (075BCE014)
+Anuja Banjara (075BCE016)
+Bhagawati Prasad Yadav (075BCE023)
+Bhulendra Kumar Kushwaha (075BCE025)
+
+
