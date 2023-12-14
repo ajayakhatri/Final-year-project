@@ -14,3 +14,7 @@
 
 https://3dviewer.net/#model=https://raw.githubusercontent.com/ajayakhatri/Final-year-project/main/3DModel.fbx
 
+## Link for Report:
+
+[Read Report](Final-Year-Project-Report.pdf)
+
