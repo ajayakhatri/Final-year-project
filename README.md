@@ -1,4 +1,4 @@
-# Final-year-project
+# SEISMIC ANALYSIS AND DESIGN OF HOSPITAL BUILDING
 Academic Project on “SEISMIC ANALYSIS AND DESIGN OF HOSPITAL BUILDING”. Click [here](Final-Year-Project-Report.pdf) to read report.
 
 ## Link for 3D view of Architectural Model:
